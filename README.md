@@ -25,13 +25,13 @@ Simple Tool That Hunt  The Social Media Account like Facebook , Instagram , Twit
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/Kamanati/SocHunt
+git clone https://github.com/hasanfq6/SocHunt
 cd SocHunt
 bash hunt.sh
 ```
 ### Installation with in single line 
 ```bash
-git clone https://github.com/Kamanati/SocHunt && cd SocHunt && bash hunt.sh
+git clone https://github.com/hasanfq6/SocHunt && cd SocHunt && bash hunt.sh
 ```
 ## video
 <p align="center"> <a href="https://youtu.be/RFLWTVXaLoQ"><img title="Made in INDIA" width="58%" src="/img/20220630_194920_0000.png"></a>
@@ -40,7 +40,7 @@ git clone https://github.com/Kamanati/SocHunt && cd SocHunt && bash hunt.sh
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hasanfq6/yourphish" target="    https://youtu.be/rs-qgA5oNKo  "><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
